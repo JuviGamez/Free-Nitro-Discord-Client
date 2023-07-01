@@ -24,3 +24,4 @@ Enable It And Restart
 
 ![image_2023-07-01_191029984](https://github.com/JuviGamez/Free-Nitro-Discord-Client/assets/89625667/1024035c-08f5-4596-b290-543bac37987c)
 
+Alternatively You Could Use this File 
