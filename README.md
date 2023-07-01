@@ -1,5 +1,6 @@
 # Free-Nitro-Discord-Client
-Use Nitro Without Paying A Single Penny, This Will Give You Nitro (DISCLAMER: Some Features Are Not Available) This Uses Vencord To Add A Specific Plugin
+Use Nitro Without Paying A Single Penny, This Will Give You Nitro (DISCLAMER: Some Features Of Nitro Are Not Available). This Uses Vencord To Add A Specific Plugin And Modify Code To Trick Discord Into Thinking You Have Nitro
+
 # Steps
 # Step 1: Download And Install Vencord Desktop 
 
@@ -17,4 +18,9 @@ Go To User Settings And Click On Plugins Under The Vencord Tab
 
 Search Fake Nitro
 
+![image_2023-07-01_190900893](https://github.com/JuviGamez/Free-Nitro-Discord-Client/assets/89625667/e533c680-14ce-41e1-92cc-67d9f0f01fdb)
+
 Enable It And Restart
+
+![image_2023-07-01_191029984](https://github.com/JuviGamez/Free-Nitro-Discord-Client/assets/89625667/1024035c-08f5-4596-b290-543bac37987c)
+
