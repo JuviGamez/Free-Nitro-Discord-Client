@@ -24,4 +24,7 @@ Enable It And Restart
 
 ![image_2023-07-01_191029984](https://github.com/JuviGamez/Free-Nitro-Discord-Client/assets/89625667/1024035c-08f5-4596-b290-543bac37987c)
 
-Alternatively You Could Use this File 
+Alternatively You Could Use this File In Releases(https://github.com/JuviGamez/Free-Nitro-Discord-Client/releases/tag/client) To Get The Plugin, All You Have To Do Is Under The Vencord Tab Select "Backup And Restore" And Click Import Settings And Select The File You Downloaded From The Above Link
+
+![image_2023-07-01_193111467](https://github.com/JuviGamez/Free-Nitro-Discord-Client/assets/89625667/3844fd51-1a7e-43df-9ad8-3dd950591cad)
+
